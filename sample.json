@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Rachel Dunkel",
+      "title": "45 Of The Best Movies To Stream On HBO Max In March",
+      "description": "Drive My Car, Dune, King Richard, and more great titles you'll want to stream this month.",
+      "url": "https://www.buzzfeed.com/racheldunkel/best-hbo-max-movies-march-2022",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/18/10/enhanced/f4fa464b9f8a/original-4307-1647597775-12.jpg?crop=1581:828;0,0%26downsize=1250:*",
+      "publishedAt": "2022-03-18T17:37:30.4830776Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Danica Creahan",
+      "title": "What's new on HBO Max this month (March 2022)",
+      "description": "\"Our Flag Means Death,\" \"Minx\" and more great shows and movies coming to HBO Max this month.",
+      "url": "https://www.cbsnews.com/essentials/whats-new-on-hbo-max-this-month/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/03/17/6fd20118-ba29-486a-a3b4-016a9873677d/thumbnail/1200x630/c76292a35a999215b2d72511c301ef72/jake-johnson-ophelia-lovibond.jpg",
+      "publishedAt": "2022-03-18T17:13:33+00:00",
+      "content": "Katrina Marcinowski\r\nHBO Max has tons of great new content premiering in March 2022, including a new season of BBC's smash hit comedy series \"Starstruck,\" plus the raunchy pirate adventure, \"Our Flag… [+9405 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Axel Metz",
+      "title": "8 new movies and TV shows on Netflix, Prime Video, HBO Max and more this weekend (March 18)",
+      "description": "It’s a bumper weekend on Netflix and Prime Video",
+      "url": "https://www.techradar.com/news/8-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-march-18-2022",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NGAVNGrAHRG98f2nbJxPcH-1200-80.jpeg",
+      "publishedAt": "2022-03-18T15:00:08Z",
+      "content": "We’ve been publishing these weekly streaming lists for some time now, but this particular edition is hands-down the most jam-packed yet. Honestly, there’s no way anyone can hope to watch everything i… [+7401 chars]"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Peter Kafka",
+      "title": "Why Amazon is buying MGM holdings and James Bond for $8.45 billion",
+      "description": "Amazon has been making its own movies and TV shows for as long as Netflix, without the same success.",
+      "url": "https://www.vox.com/recode/22451787/amazon-mgm-james-bond-streaming-netflix-analysis",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cG4u_JSUC43drZKsMEVgp_PJH1M=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22536883/daniel_craig_james_bond_no_time_to_die.jpeg",
+      "publishedAt": "2021-05-24T21:40:00Z",
+      "content": "Update, March 17: Amazons $8.45 billion deal has closed, and the company announced that MGM will be joining Prime Video and Amazon Studios.\r\nBig tech companies have been eyeing big media companies fo… [+6155 chars]"
+    }
+  ]
+}
